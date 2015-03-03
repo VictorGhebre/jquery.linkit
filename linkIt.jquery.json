@@ -1,0 +1,37 @@
+{
+	"name": "linkIt",
+	"title": "LinkIt jQuery Plugin",
+	"description": "Simple Plugin to convert any element into a link.",
+		"keywords": [
+		"link",
+		"html",
+		"content"
+],
+
+	"version": "1.0.1",
+	"author": {
+		"name": "Victor Ghebre",
+		"url": "https://victorghebre.com"
+},
+
+	"maintainers": [
+{
+	"name": "Victor Ghebre",
+		"email": "victorg60@gmail.com",
+		"url": "https://victorghebre.com"
+}
+],
+
+	"licenses": [
+{
+	"type": "MIT",
+	"url": "https://github.com/VictorGhebre/jquery.linkit/LICENSE.txt"
+}
+
+],
+	"homepage": "https://github.com/VictorGhebre/jquery.linkit",
+	"docs": "https://github.com/VictorGhebre/jquery.linkit",
+	"dependencies": {
+	"jquery": ">=1.9"
+}
+}
